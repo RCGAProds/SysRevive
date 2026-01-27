@@ -1,6 +1,6 @@
-# SysRevive - Windows System Repair Script
-
 <div align="center">
+   
+# SysRevive - Windows System Repair Script
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
