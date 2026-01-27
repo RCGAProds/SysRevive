@@ -183,7 +183,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║          SELECCION DE IDIOMA / LANGUAGE SELECTION        ║
+║          SELECCION DE IDIOMA / LANGUAGE SELECTION         ║
 ╚═══════════════════════════════════════════════════════════╝
 
   1. Español
